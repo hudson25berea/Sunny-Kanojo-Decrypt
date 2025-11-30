@@ -1,7 +1,7 @@
 # Sunny-Kanojo-Decrypt
 解包 超次元彼女
 
-解密部分感谢[劃破黑夜](https://github.com/28598519a) 的[Kanojo_AssetDecDL](https://github.com/28598519a/Kanojo_AssetDecDL)提供的方法以及[这个帖子](https://live2dhub.com/t/topic/4446/5)的文件名映射思路
+解密部分感谢[劃破黑夜](https://github.com/28598519a) 的[Kanojo_AssetDecDL](https://github.com/28598519a/Kanojo_AssetDecDL)提供的方法以及文件名映射思路
 
 # 使用说明
 
